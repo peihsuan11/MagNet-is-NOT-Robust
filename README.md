@@ -1,5 +1,3 @@
-# MagNet-is-NOT-Robust
-
 MagNet is NOT Robust to Transfer Attacks
 ===
 The experiment of "MagNet is NOT Robust to Transfer Attacks".
